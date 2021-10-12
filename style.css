@@ -1,0 +1,60 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+button{
+/*Apply style border-radius to get rounded border for button*/
+ border-radius: 50px !important;
+ 
+}
+
+#camera, #result
+{
+  background-color: white;
+  width: 310px;
+  height: 310px;
+  border-radius: 30px;
+  box-shadow: 5px 5px 5px 5px gray;
+
+}
+.snapshot{
+  background-color: white;
+  width: 310px;
+  height: 310px;
+  border-radius: 30px;
+  box-shadow: 5px 5px 5px 5px gray;
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+label
+{
+  font-size: 14px;
+  color: #62b33a;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+}
+img{
+border:1px solid black;
+}
